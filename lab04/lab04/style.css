@@ -1,0 +1,23 @@
+.container{
+background-color: #153449
+}
+.container h1{
+color: white;
+}
+body{
+background-color:whitesmoke;
+}
+img{
+
+width: calc(100% - 20px);
+height: 250px;
+margin: 10px;
+}
+.NewGrid{
+margin: 10px;
+border: 1px solid lightgray;
+padding: 10px;
+}
+.container-left{
+width: 90%;
+}

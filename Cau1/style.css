@@ -1,0 +1,50 @@
+
+*{
+    color: rgb(7, 1, 1);
+    background: rgb(7, 200, 243);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0;
+    padding: 0;
+}
+
+#weatherContainer {
+    padding-top: 40px;
+}
+
+#iconsContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.icons {
+    display: inline-block;
+
+}
+
+.image {
+    height: 140px;
+    width: 100%;
+}
+
+.imgClass {
+    height: 140px;
+    width: 100%;
+}
+
+.weather {
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.minValues {
+    text-align: center;
+}
+
+.maxValues {
+    text-align: center;
+}
